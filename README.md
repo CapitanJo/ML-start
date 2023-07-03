@@ -1,3 +1,3 @@
 # ML-start
-My solution of some education projects
+My solution for some education projects
 more info in packs
