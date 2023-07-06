@@ -6,14 +6,12 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1.   | [Промышленность](https://github.com/CapitanJo/ML-start/tree/main/Final_%20project).  Industry    | Предсказание температуры стали.  Prediction of steel temperature.            | python, pandas, numpy, nltk, sklearn, CatBoost, lightGBM |
 | 2.   | [Промышленность](https://github.com/CapitanJo/ML-start/tree/main/Project_2%20(%20ML)). Industry  | Поиск места бурения скважины.   Finding a place to drill                     | python, pandas, numpy, sklearn |
-| 3.   | [Улучшение процесса обогащения золота](https://github.com/aq2003/Portfolio/tree/main/Gold%20Recovery) | Выбор лучшей модели для увеличения показателей технологического процесса обогащения золота | python, pandas, numpy, scipy, sklearn, matplotlib       |
-| 4.   | [Анализ текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
-| 5.   | [Анализ текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
-| 6.   | [Анализ текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
-
-| 2.   | [Прогноз количества заказов для сервиса такси](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib 
+| 3.   | [Улучшение процесса обогащения золота](https://github.com/CapitanJo/ML-start/tree/main/Project_3%20(ML)) | Выбор лучшей модели для увеличения показателей технологического процесса обогащения золота. Choosing the best model to increase the indicators of the technological process of gold enrichment | python, pandas, numpy, scipy, sklearn, matplotlib |
+| 4.   | [Определение стоимости](https://github.com/CapitanJo/ML-start/tree/main/Project_4%20(Numerical%20methods)). Cost determination | Анализ комментариев пользователей на токсичность. Analysis of user comments on toxicity    | python, pandas, numpy, nltk, sklearn |
+| 5.   | [Анализ текстов](https://github.com/CapitanJo/ML-start/tree/main/Project_5%20(Time%20series)) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
 
 
-More info in packs
+Для более подробное информации можно перейти по ссылке в названии проекта
+Fnd more info by link in project name
 
 
